@@ -1,9 +1,21 @@
 # 🌍 Plataforma de Doações para ONGs
 
-## 📌 Problema
+## 🏆 Problema
 
-Muitas ONGs enfrentam dificuldades para arrecadar doações e manter um fluxo constante de apoio financeiro. Além disso, doadores podem encontrar dificuldades em localizar ONGs confiáveis para contribuir.
+Muitas ONGs enfrentam dificuldades para arrecadar recursos financeiros e materiais de forma transparente e organizada. A falta de um sistema eficiente pode gerar desconfiança entre os doadores, dificultando o apoio a causas importantes. Além disso, a falta de relatórios de transparência pode prejudicar a credibilidade das instituições.
 
 ## 💡 Solução
 
-Desenvolvemos uma **plataforma de doação para ONGs**, onde qualquer pessoa pode encontrar, conhecer e contribuir financeiramente com instituições confiáveis de forma rápida e segura.
+Desenvolvemos um sistema completo de gestão de doações para ONGs, permitindo que elas criem campanhas, recebam contribuições financeiras ou materiais e publiquem relatórios de transparência. O sistema também possibilita que os doadores acompanhem o impacto de suas doações e avaliem as ONGs, promovendo maior confiabilidade e engajamento.
+
+## 📊 Modelagem de Dados
+
+### 📌 Diagrama Conceitual
+
+(Insira aqui a imagem ou o link do diagrama conceitual)
+
+### 🔗 Diagrama Entidade-Relacionamento (ER)
+
+(Insira aqui a imagem ou o link do diagrama ER gerado no DBdiagram)
+
+## 📊 Análise de Dados
